@@ -4,6 +4,6 @@ My solution is located in a jupyter notebook. The notebook can also use real-tim
 
 I have included multiple ways to view the report:
 
-1) Active_Holder_Interactions.ipynb --> This is a jupyter notebook. The code can be actually run in here by execting "jupyter notebook Large_Holder_Activity.ipynb" in terminal from this directory.
+1) Active_Holder_Interactions.ipynb --> This is a jupyter notebook. The code can be actually run in here by execting "jupyter notebook Active_Holder_Interactions.ipynb" in terminal from this directory.
 
 2) Active_Holder_Interactions.pdf --> This is an exported PDF document of the write-up and code included in the jupyter notebook. This also includes the graphs that the code generates.
